@@ -264,6 +264,18 @@
       [
         "power_pin_not_driven|1943100|850900|600df92d-1a9e-47a7-b836-4eda03a02caf|00000000-0000-0000-0000-000000000000|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|",
         ""
+      ],
+      [
+        "power_pin_not_driven|2959100|508000|bb5a67d7-ce4a-48e8-886e-0070be875e7e|00000000-0000-0000-0000-000000000000|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2959100|520700|bb5a67d7-ce4a-48e8-886e-0070be875e7e|00000000-0000-0000-0000-000000000000|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|736600|495300|0731b793-287a-4695-a4a9-2341810014e0|00000000-0000-0000-0000-000000000000|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|/f027e44d-b17e-4aa0-92c5-6a10fe497dbb|",
+        ""
       ]
     ],
     "meta": {
@@ -743,7 +755,7 @@
         "uuid": "f027e44d-b17e-4aa0-92c5-6a10fe497dbb"
       }
     ],
-    "used_designators": "#PWR2,#PWR54-69,C28-29,R19-20,J10-12,H1-4,FID1-4",
+    "used_designators": "L4,J12,U6,Q7,R1-3,R5-6,D7-8,D12,C4,C6-7,C11-12,C30-33,C37,#PWR2,#PWR9-13,#PWR67,#PWR138,#PWR140,#PWR151-153,#PWR162-163",
     "variants": []
   },
   "sheets": [
