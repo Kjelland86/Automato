@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "kjelland-footprints") (type "KiCad") (uri "/home/kjelland/kjelland-kicad-library/kjelland-footprints.pretty") (options "") (descr ""))
+)
